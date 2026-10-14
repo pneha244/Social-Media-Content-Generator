@@ -1,4 +1,4 @@
-# Project 22 - Social Media Content Generator
+# Social Media Content Generator
 
 A simple Python application for generating social media captions and hashtag suggestions using prompt-based logic.
 
